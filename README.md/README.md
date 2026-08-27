@@ -41,5 +41,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heiyelidebaiyang&show_icons=true&theme=gotham" alt="heiyelidebaiyang" />
-*（内容由AI生成，仅供参考）*
+
 

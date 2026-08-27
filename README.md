@@ -38,7 +38,7 @@
 
 - 🌱 正在学习：前端开发、Python
 - 🔭 正在维护：云雪星球小站
-- 📫 联系我：[我的 GitHub](https://github.com/heiyelidebaiyang) / 邮箱：`你的邮箱@example.com`（记得改成你的真实邮箱）
+- 📫 联系我：[我的 GitHub](https://github.com/heiyelidebaiyang) / 邮箱：`980766365@qq.com`
 
 ☕ 如果喜欢我的项目，欢迎请我喝杯咖啡～
 
